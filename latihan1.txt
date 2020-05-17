@@ -1,5 +1,6 @@
 - ini adalah file pertama untuk latihan
 - selanjutnya file ini akan diedit sesuai kebutuhan
 
-----
+
 ini edit ke dua
+ini edit ke 3
