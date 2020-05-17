@@ -3,6 +3,9 @@ rencana cabang
 lists:
 - html
 - css
+  - scss
 - javascript
+  - jquery
 - php 
 - SQL
+- framework
